@@ -4,6 +4,9 @@ rmd_files: ["index.Rmd",
             "02-chap2.Rmd",
             "03-chap3.Rmd",
             "04-chap4.Rmd",
+            "blair_chapter.Rmd",
+            "susan_chapter.Rmd",
+            "FinnisChapter.Rmd",
             "05-references.Rmd",
             "06-appendix.Rmd"]
 delete_merged_file: true
