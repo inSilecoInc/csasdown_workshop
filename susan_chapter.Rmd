@@ -1,0 +1,6 @@
+# Susan
+
+This is a very useful workshop.  An equation.
+
+$\sigma_{rc}^2=\alpha t^\beta$
+
